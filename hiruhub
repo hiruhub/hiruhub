@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Hiru Hub Premium",--Tên Script
+    logoscript = "86883337735566",--ID Logo Script
+    tacgia = "huydepzai"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
